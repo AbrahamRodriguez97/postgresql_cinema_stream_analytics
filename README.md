@@ -1,5 +1,8 @@
 # CinemaStream Analytics: End-to-End SQL & Data Engineering
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/ce17d6bf-5bd0-47b9-b2e8-f755e7484170" />
+
+
 ## Overview / Resumen
 
 **EN:** This project simulates the data ecosystem of a streaming platform. The goal is to build an optimized Data Warehouse in PostgreSQL to generate business insights on content profitability and customer behavior.
@@ -41,7 +44,8 @@
 
 
 
-[Image of Database Entity Relationship Diagram]
+<img width="583" height="829" alt="image" src="https://github.com/user-attachments/assets/2ba607ad-f4d8-4654-8c78-2e38d5c88f3b" />
+
 
 
 **EN:** The design follows a normalized relational architecture to ensure transactional consistency.
